@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#fileInput {
+    display: block;
+    margin: 20px auto;
+}
+
+#uploadButton {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#uploadedFiles {
+    margin: 20px auto;
+}
